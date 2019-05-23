@@ -1,8 +1,9 @@
 //
-//  DetailsViewController.swift
-//  Pods
+//  DetailsIntergation.swift
+//  RestaurantsIntegration
 //
 //  Created by Grigory Entin on 22/05/2019.
+//  Copyright © 2019 Grigory Entin. All rights reserved.
 //
 
 import RestaurantsDetailsScene

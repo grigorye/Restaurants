@@ -2,7 +2,8 @@
 //  MapIntegration.swift
 //  RestaurantsIntegration
 //
-//  Created by Grigory Entin on 20/05/2019.
+//  Created by Grigory Entin on 22/05/2019.
+//  Copyright © 2019 Grigory Entin. All rights reserved.
 //
 
 import RestaurantsMapScene
