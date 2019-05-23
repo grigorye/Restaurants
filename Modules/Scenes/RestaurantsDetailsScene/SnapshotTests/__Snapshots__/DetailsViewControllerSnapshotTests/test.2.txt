@@ -1,0 +1,35 @@
+<UITableView; frame = (0 0; 320 568); clipsToBounds = YES; autoresize = W+H; gestureRecognizers = <NSArray>; layer = <CALayer>; contentOffset: {0, -44}; contentSize: {320, 241}; adjustedContentInset: {44, 0, 0, 0}>
+   | <UITableViewCell; frame = (0 203; 320 0); text = 'Line 5'; clipsToBounds = YES; hidden = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 -0.5; 320 0.5); opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 -0.5; 288 0.5); text = 'Line 5'; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 43; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (0 -0.5; 320 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 203; 320 0); text = 'Line 4'; clipsToBounds = YES; hidden = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 -0.5; 320 0.5); opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 -0.5; 288 0.5); text = 'Line 4'; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 43; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 -0.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 203; 320 0); text = 'Line 3'; clipsToBounds = YES; hidden = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 -0.5; 320 0.5); opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 -0.5; 288 0.5); text = 'Line 3'; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 43; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 -0.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 159; 320 44); text = 'Address Line 2'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 43.5); opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 0; 288 43.5); text = 'Address Line 2'; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 43; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 43.5; 304 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 115; 320 44); text = 'Address Line 1'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 43.5); opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 0; 288 43.5); text = 'Address Line 1'; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 43; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (16 43.5; 304 0.5); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (0 0; 320 0.5); layer = <CALayer>>
+   | <UITableViewCell; frame = (0 35; 320 44); text = 'd&a Hummus Bistro'; clipsToBounds = YES; autoresize = W; layer = <CALayer>>
+   |    | <UITableViewCellContentView; frame = (0 0; 320 43.5); opaque = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <UITableViewLabel; frame = (16 0; 288 43.5); text = 'd&a Hummus Bistro'; layer = <_UILabelLayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (15 43; 399 1); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (0 43.5; 320 0.5); layer = <CALayer>>
+   |    | <_UITableViewCellSeparatorView; frame = (0 0; 320 0.5); layer = <CALayer>>
+   | <UIImageView; frame = (314.5 138.5; 2.5 379.5); alpha = 0; opaque = NO; autoresize = LM; userInteractionEnabled = NO; layer = <CALayer>>
+   | <UIImageView; frame = (6 518.5; 308 2.5); alpha = 0; opaque = NO; autoresize = TM; userInteractionEnabled = NO; animations = { opacity=<CABasicAnimation>; }; layer = <CALayer>>

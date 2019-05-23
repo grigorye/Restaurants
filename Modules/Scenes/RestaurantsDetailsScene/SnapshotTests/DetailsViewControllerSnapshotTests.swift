@@ -1,22 +1,19 @@
 //
-//  RestaurantDetailsViewControllerSnapshotingTests.swift
+//  DetailsViewControllerSnapshotTests.swift
 //  RestaurantsDetailsScene-Unit-SnapshotTests
 //
 //  Created by Grigory Entin on 21/05/2019.
 //  Copyright © 2019 Grigory Entin. All rights reserved.
 //
 
-@testable import RestaurantsViews
-import RestaurantsModels
-import XCTest
-import FBSnapshotTestCase
+@testable import RestaurantsDetailsScene
 import SnapshotTesting
+import XCTest
 
-class RestaurantDetailsViewControllerSnapshotingTests : XCTestCase {
+class DetailsViewControllerSnapshotTests : XCTestCase {
     
     func test() {
         let viewController = newViewController()
-        record = true
         viewController.model = sampleRestaurantDetailsModel
         assertSnapshot(matching: viewController, as: .image(drawHierarchyInKeyWindow: true))
         assertSnapshot(matching: viewController, as: .recursiveDescription(on: .iPhoneSe))
@@ -24,12 +21,11 @@ class RestaurantDetailsViewControllerSnapshotingTests : XCTestCase {
     }
 }
 
-
-private func newViewController() -> RestaurantDetailsViewController {
+private func newViewController() -> DetailsViewController {
     return .instantiatedFromStoryboard()
 }
 
-private let sampleRestaurantDetailsModel = RestaurantDetailsViewController.Model(
+private let sampleRestaurantDetailsModel = DetailsViewModel(
     name: "d&a Hummus Bistro",
     addressLines: [
         "Address Line 1",

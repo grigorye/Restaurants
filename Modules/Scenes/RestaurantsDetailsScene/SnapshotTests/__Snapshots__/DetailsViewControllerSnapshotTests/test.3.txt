@@ -1,0 +1,1 @@
+<RestaurantsDetailsScene.DetailsViewController>, state: appearing, view: <UITableView>
