@@ -85,7 +85,7 @@ class MapViewController : UIViewController {
     }
     
     #if DEBUG
-    private var mapViewDidFinishRendering: Bool = false
+    private(set) var mapViewDidFinishRendering: Bool = false
     private var mapViewDidFinishRenderingTimer: Timer?
     #endif
 }

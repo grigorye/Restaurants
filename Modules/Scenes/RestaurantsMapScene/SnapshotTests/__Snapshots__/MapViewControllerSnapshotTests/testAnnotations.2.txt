@@ -1,0 +1,20 @@
+<UIView; frame = (0 0; 320 568); autoresize = W+H; layer = <CALayer>>
+   | <MKMapView; frame = (0 0; 320 568); clipsToBounds = YES; autoresize = RM+BM; layer = <CALayer>>
+   |    | <_MKMapContentView; frame = (0 0; 320 568); clipsToBounds = YES; autoresizesSubviews = NO; gestureRecognizers = <NSArray>; layer = <CALayer>>
+   |    |    | <MKBasicMapView; frame = (0 0; 320 568); clipsToBounds = YES; layer = <CALayer>>
+   |    |    |    | <_MKMapLayerHostingView; frame = (0 0; 320 568); layer = <_MKMapLayerHostingLayer>>
+   |    |    |    |    | <VKMapView> (layer)
+   |    |    |    |    |    | <GGLOpenGLESLayer> (layer)
+   |    |    | <MKScrollContainerView; frame = (-18604.5 -11739; 36467.6 36467.6); autoresizesSubviews = NO; layer = <CALayer>>
+   |    |    | <MKAnnotationContainerView; frame = (0 0; 320 568); autoresize = W+H; autoresizesSubviews = NO; layer = <CALayer>>
+   |    |    |    | <MKMarkerAnnotationView; frame = (156.5 380; 28 28); layer = <CALayer>>
+   |    |    |    |    | <UIImageView; frame = (-6.25 -4; 40.5 37.5); transform = [0.5, 0, 0, 0.5, 0, 0]; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    |    |    | <_MKBezierPathView; frame = (0 -5; 28 33); layer = <CAShapeLayer>>
+   |    |    |    |    |    | <UIImageView; frame = (4 4; 20 20); opaque = NO; userInteractionEnabled = NO; tintColor = kCGColorSpaceModelRGB 1 1 1 1 ; layer = <CALayer>>
+   |    |    |    |    |    | <UILabel; frame = (4 4; 20 20); hidden = YES; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    | <MKAttributionLabel; frame = (11 548.26; 28.5742 10.7402); alpha = 0.5; opaque = NO; autoresize = RM+TM; userInteractionEnabled = NO; layer = <CALayer>>
+   | <UILabel; frame = (143.5 274; 33.5 20.5); text = 'XXX'; opaque = NO; autoresize = RM+BM; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   | <UIView; frame = (256 524; 44 44); autoresize = RM+BM; layer = <CALayer>>
+   |    | <MKUserTrackingButton; frame = (0 0; 44 44); layer = <CALayer>>
+   |    |    | <_MKUserTrackingButton; baseClass = UIButton; frame = (0 0; 44 44); opaque = NO; layer = <CALayer>>
+   |    |    |    | <UIImageView; frame = (9.5 12; 23 23); clipsToBounds = YES; opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>

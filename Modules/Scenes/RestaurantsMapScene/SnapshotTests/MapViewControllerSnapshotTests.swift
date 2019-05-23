@@ -6,7 +6,7 @@
 //  Copyright © 2019 Grigory Entin. All rights reserved.
 //
 
-@testable import RestaurantsMapViewKit
+@testable import RestaurantsMapScene
 import XCTest
 import SnapshotTesting
 
@@ -14,12 +14,12 @@ class MapViewControllerSnapshotingTests : XCTestCase {
     
     override class func setUp() {
         super.setUp()
-        record = false
     }
     
+    #if DEBUG
     func testAnnotations() {
         let viewController = newViewController()
-        viewController.setMapPoints(sampleRestaurantsMapPoints)
+        viewController.setItems(sampleMapItems)
         let window = UIApplication.shared.keyWindow!
         window.rootViewController = viewController
         let mapViewIsReady = expectationForMapIsReady(in: viewController)
@@ -32,15 +32,16 @@ class MapViewControllerSnapshotingTests : XCTestCase {
     
     func expectationForMapIsReady(in viewController: MapViewController) -> XCTestExpectation {
         return self.expectation(for: NSPredicate(value: true), evaluatedWith: nil) { () -> Bool in
-            return viewController.mapViewDidFinishRendering && viewController.mapViewDidFinishLoadingMap
+            return viewController.mapViewDidFinishRendering
         }
     }
+    #endif
 }
 
 private func newViewController() -> MapViewController {
     return .instantiatedFromStoryboard()
 }
 
-private let sampleRestaurantsMapPoints: [MapItem] = [
-    .init(id: "1", location: .init(latitude: 52.3783525, longitude: 4.8826805), title: "d&a Hummus Bistro")
+private let sampleMapItems: [MapItem] = [
+    .init(identifier: "1", location: .init(latitude: 52.3783525, longitude: 4.8826805), title: "d&a Hummus Bistro")
 ]
