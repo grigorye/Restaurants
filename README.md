@@ -24,9 +24,11 @@ There's also a level of integration in the main project itself. It's unnecessari
 # Building and Testing
 
 1. Prepare the dependcies:
-      
-      bundle install
-      bundle exec pod install
+
+	```
+	bundle install
+	bundle exec pod install
+	```
 
 2. Build Restaurants.xcodeworkspace
 3. Tests targets for the modules should be available right in the workspace.
