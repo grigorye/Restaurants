@@ -43,11 +43,16 @@ extension URL : Arbitrary {
 enum FakeAction : HTTPAction {
     
     struct Request : HTTPRequest, Arbitrary {
+        
         let url: URL
+        let httpHeaders: [String : String]
 
         static var arbitrary: Gen<FakeAction.Request> {
             return .compose { (c) in
-                .init(url: c.generate())
+                .init(
+                    url: c.generate(),
+                    httpHeaders: [:]
+                )
             }
         }
     }
