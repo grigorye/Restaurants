@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="J5N-hh-5Tr">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Map View Controller-->
+        <scene sceneID="wTS-el-spF">
+            <objects>
+                <viewController id="J5N-hh-5Tr" customClass="MapViewController" customModule="RestaurantsMapKitViews" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="6cG-XA-t8z">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" showsUserLocation="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ajp-x8-abx">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                            </mapView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="XXX" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dCW-Cw-Ydo">
+                                <rect key="frame" x="190" y="437.5" width="34" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uR0-DM-JKp">
+                                <rect key="frame" x="350" y="818" width="44" height="44"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="tableCellGroupedBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="44" id="QgD-0K-YdZ"/>
+                                    <constraint firstAttribute="height" constant="44" id="zEC-72-P6Q"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="dCW-Cw-Ydo" firstAttribute="centerX" secondItem="6cG-XA-t8z" secondAttribute="centerX" id="Hd2-W1-LOd"/>
+                            <constraint firstItem="Ajp-x8-abx" firstAttribute="trailing" secondItem="5De-1e-jbJ" secondAttribute="trailing" id="HjS-uG-5hj"/>
+                            <constraint firstItem="dCW-Cw-Ydo" firstAttribute="centerY" secondItem="6cG-XA-t8z" secondAttribute="centerY" id="Ipb-w0-sgv"/>
+                            <constraint firstItem="Ajp-x8-abx" firstAttribute="leading" secondItem="5De-1e-jbJ" secondAttribute="leading" id="MbQ-nE-vF9"/>
+                            <constraint firstItem="5De-1e-jbJ" firstAttribute="trailing" secondItem="uR0-DM-JKp" secondAttribute="trailing" constant="20" id="YJT-Y3-B5p"/>
+                            <constraint firstItem="Ajp-x8-abx" firstAttribute="top" secondItem="6cG-XA-t8z" secondAttribute="top" id="jW2-zz-RYM"/>
+                            <constraint firstItem="uR0-DM-JKp" firstAttribute="bottom" secondItem="5De-1e-jbJ" secondAttribute="bottom" id="qtj-cp-CN3"/>
+                            <constraint firstAttribute="bottom" secondItem="Ajp-x8-abx" secondAttribute="bottom" id="t9d-Cz-oBd"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="5De-1e-jbJ"/>
+                    </view>
+                    <connections>
+                        <outlet property="mapViewImp" destination="Ajp-x8-abx" id="gbz-nI-KpK"/>
+                        <outlet property="userTrackingButtonContainerView" destination="uR0-DM-JKp" id="Vg0-36-D1u"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="klV-aq-j9G" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-143.47826086956522" y="204.91071428571428"/>
+        </scene>
+    </scenes>
+</document>

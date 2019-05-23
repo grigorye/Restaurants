@@ -1,0 +1,3962 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5ce1acdf1ed21914c1e84aaf"
+    },
+    "response": {
+        "venues": [
+            {
+                "id": "4c7a850e97028cfaae4fdefe",
+                "name": "Amsterdamse Grachten",
+                "location": {
+                    "address": "Prinsengracht, Keizersgracht, Herengracht & Singel",
+                    "lat": 52.36553758871974,
+                    "lng": 4.890632629394531,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.36553758871974,
+                            "lng": 4.890632629394531
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Prinsengracht, Keizersgracht, Herengracht & Singel",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "56aa371be4b08b9a8d573562",
+                        "name": "Canal",
+                        "pluralName": "Canals",
+                        "shortName": "Canal",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b0fcd76f964a5200a6523e3",
+                "name": "UvA P.C. Hoofthuis",
+                "location": {
+                    "address": "Spuistraat 134",
+                    "lat": 52.374162254642386,
+                    "lng": 4.890050077597199,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374162254642386,
+                            "lng": 4.890050077597199
+                        }
+                    ],
+                    "postalCode": "1012 VB",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 134",
+                        "1012 VB Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ae941735",
+                        "name": "University",
+                        "pluralName": "Universities",
+                        "shortName": "University",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5314b372e4b0d805d3745a8b",
+                "name": "Binnenstad",
+                "location": {
+                    "lat": 52.37105318216298,
+                    "lng": 4.89564309405697,
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4f2a25ac4b909258e854f55f",
+                        "name": "Neighborhood",
+                        "pluralName": "Neighborhoods",
+                        "shortName": "Neighborhood",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "52612e05498e5d7cea01fe78",
+                "name": "Il Momento",
+                "location": {
+                    "lat": 52.37400745811132,
+                    "lng": 4.889817772254633,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37400745811132,
+                            "lng": 4.889817772254633
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5cbb2697c876c80039d5e8d3",
+                "name": "The Food Department",
+                "location": {
+                    "lat": 52.373764,
+                    "lng": 4.890815,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373764,
+                            "lng": 4.890815
+                        }
+                    ],
+                    "postalCode": "1012 SJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "1012 SJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d120951735",
+                        "name": "Food Court",
+                        "pluralName": "Food Courts",
+                        "shortName": "Food Court",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b14d0b3f964a520c0a623e3",
+                "name": "Magna Plaza",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal 182",
+                    "crossStreet": "Raadhuisstraat",
+                    "lat": 52.37366391411134,
+                    "lng": 4.890280836103692,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37366391411134,
+                            "lng": 4.890280836103692
+                        }
+                    ],
+                    "postalCode": "1012 SJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal 182 (Raadhuisstraat)",
+                        "1012 SJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1fd941735",
+                        "name": "Shopping Mall",
+                        "pluralName": "Shopping Malls",
+                        "shortName": "Mall",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "59c4b7546a8d86734da002ba",
+                "name": "UvA P.C. Hoofthuis 4.04",
+                "location": {
+                    "address": "Spuistraat 134",
+                    "lat": 52.374219,
+                    "lng": 4.889729,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374219,
+                            "lng": 4.889729
+                        }
+                    ],
+                    "postalCode": "1012 VK",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 134",
+                        "1012 VK Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1a0941735",
+                        "name": "College Classroom",
+                        "pluralName": "College Classrooms",
+                        "shortName": "Classroom",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/classroom_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "567b4f68498ef1df24e0cef6",
+                "name": "Restaurant Breda",
+                "location": {
+                    "address": "Singel 210",
+                    "lat": 52.37381760412148,
+                    "lng": 4.888610243797302,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37381760412148,
+                            "lng": 4.888610243797302
+                        }
+                    ],
+                    "postalCode": "1016 AB",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel 210",
+                        "1016 AB Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1c4941735",
+                        "name": "Restaurant",
+                        "pluralName": "Restaurants",
+                        "shortName": "Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4a26ff57f964a520257f1fe3",
+                "name": "Café Van Zuylen",
+                "location": {
+                    "address": "Torensteeg 4-8",
+                    "crossStreet": "Singel",
+                    "lat": 52.37461906118459,
+                    "lng": 4.889687020629518,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37461906118459,
+                            "lng": 4.889687020629518
+                        }
+                    ],
+                    "postalCode": "1012 TH",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Torensteeg 4-8 (Singel)",
+                        "1012 TH Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4dd2459b1838a75196568d7c",
+                "name": "De Leeuwenkuil P.C. Hoofthuis",
+                "location": {
+                    "address": "UvA P.C. Hoofthuis",
+                    "lat": 52.374158985262014,
+                    "lng": 4.889551834614243,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374158985262014,
+                            "lng": 4.889551834614243
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "UvA P.C. Hoofthuis",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1a1941735",
+                        "name": "College Cafeteria",
+                        "pluralName": "College Cafeterias",
+                        "shortName": "Cafeteria",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4a2706a4f964a520988b1fe3",
+                "name": "Die Port van Cleve",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal 176",
+                    "lat": 52.37403007943803,
+                    "lng": 4.890692957495309,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37403007943803,
+                            "lng": 4.890692957495309
+                        }
+                    ],
+                    "postalCode": "1012 SJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal 176",
+                        "1012 SJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1fa931735",
+                        "name": "Hotel",
+                        "pluralName": "Hotels",
+                        "shortName": "Hotel",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4f991e89e4b02ab0853f4ad3",
+                "name": "Theo Peters Numismatics & Philately B.V.",
+                "location": {
+                    "lat": 52.373869687265746,
+                    "lng": 4.889784239935488,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373869687265746,
+                            "lng": 4.889784239935488
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d116951735",
+                        "name": "Antique Shop",
+                        "pluralName": "Antique Shops",
+                        "shortName": "Antiques",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/antique_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5cd32d15d41bb7002cd5765d",
+                "name": "Tacos & Tequila",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal",
+                    "lat": 52.373775,
+                    "lng": 4.89033,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373775,
+                            "lng": 4.89033
+                        }
+                    ],
+                    "postalCode": "1012 SJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal",
+                        "1012 SJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d151941735",
+                        "name": "Taco Place",
+                        "pluralName": "Taco Places",
+                        "shortName": "Tacos",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5b38b34360255e002c33d2b2",
+                "name": "Lakwerk",
+                "location": {
+                    "address": "129 Spuistraat",
+                    "lat": 52.374214,
+                    "lng": 4.890872,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374214,
+                            "lng": 4.890872
+                        }
+                    ],
+                    "postalCode": "1012 SV",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "129 Spuistraat",
+                        "1012 SV Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4f04aa0c2fb6e1c99f3db0b8",
+                        "name": "Nail Salon",
+                        "pluralName": "Nail Salons",
+                        "shortName": "Nail Salon",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/nailsalon_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b1ebadbf964a5209e1e24e3",
+                "name": "De Blauwe Parade",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal 178",
+                    "lat": 52.37392463325845,
+                    "lng": 4.890881319039285,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37392463325845,
+                            "lng": 4.890881319039285
+                        }
+                    ],
+                    "postalCode": "1012",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal 178",
+                        "1012 Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bars",
+                        "shortName": "Bar",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b601ca4f964a5202dd629e3",
+                "name": "ABN AMRO Bank N.V.",
+                "location": {
+                    "address": "Gustav Mahlerlaan 10",
+                    "lat": 52.337421699791605,
+                    "lng": 4.874520562262185,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.337421699791605,
+                            "lng": 4.874520562262185
+                        }
+                    ],
+                    "postalCode": "1082 PP",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Gustav Mahlerlaan 10",
+                        "1082 PP Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d10a951735",
+                        "name": "Bank",
+                        "pluralName": "Banks",
+                        "shortName": "Bank",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4e904b56b8f79f71de6c33d7",
+                "name": "Bols Amsterdam Since 1575",
+                "location": {
+                    "lat": 52.37424698086128,
+                    "lng": 4.890463260720843,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37424698086128,
+                            "lng": 4.890463260720843
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bars",
+                        "shortName": "Bar",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "59faed679411f27f25afad55",
+                "name": "UvA P.C. Hoofthuis 4.28",
+                "location": {
+                    "address": "Spuistraat 134",
+                    "lat": 52.373903,
+                    "lng": 4.889582,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373903,
+                            "lng": 4.889582
+                        }
+                    ],
+                    "postalCode": "1012 VK",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 134",
+                        "1012 VK Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1a0941735",
+                        "name": "College Classroom",
+                        "pluralName": "College Classrooms",
+                        "shortName": "Classroom",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/classroom_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4c4713ab34999c74423702fd",
+                "name": "M-E-K",
+                "location": {
+                    "address": "Hartenstraat 11",
+                    "lat": 52.37427228271567,
+                    "lng": 4.8903039975483,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37427228271567,
+                            "lng": 4.8903039975483
+                        }
+                    ],
+                    "postalCode": "1016 BZ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Hartenstraat 11",
+                        "1016 BZ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ff941735",
+                        "name": "Miscellaneous Shop",
+                        "pluralName": "Miscellaneous Shops",
+                        "shortName": "Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4a270638f964a5205d8a1fe3",
+                "name": "Harry van Gestel gallery",
+                "location": {
+                    "address": "Torensteeg 3",
+                    "lat": 52.37443187213045,
+                    "lng": 4.889827446300705,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37443187213045,
+                            "lng": 4.889827446300705
+                        }
+                    ],
+                    "postalCode": "1012 TH",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Torensteeg 3",
+                        "1012 TH Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e2931735",
+                        "name": "Art Gallery",
+                        "pluralName": "Art Galleries",
+                        "shortName": "Art Gallery",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "venuePage": {
+                    "id": "107134687"
+                },
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4a270016f964a52023821fe3",
+                "name": "'t Sluisje",
+                "location": {
+                    "address": "Torensteeg 1",
+                    "lat": 52.374441628400156,
+                    "lng": 4.890019551523468,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374441628400156,
+                            "lng": 4.890019551523468
+                        }
+                    ],
+                    "postalCode": "1012 TH",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Torensteeg 1",
+                        "1012 TH Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1d8941735",
+                        "name": "Gay Bar",
+                        "pluralName": "Gay Bars",
+                        "shortName": "Gay Bar",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/gaybar_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "56c83eee498e8b9d3ee94e5f",
+                "name": "Sanders",
+                "location": {
+                    "address": "Raadhuisstraat 6",
+                    "lat": 52.37334676625295,
+                    "lng": 4.889223727578284,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37334676625295,
+                            "lng": 4.889223727578284
+                        }
+                    ],
+                    "postalCode": "1012 TJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Raadhuisstraat 6",
+                        "1012 TJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4df372f822718759f81fbac7",
+                "name": "Sint Luciensteeg",
+                "location": {
+                    "lat": 52.374083514731424,
+                    "lng": 4.890681756595413,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374083514731424,
+                            "lng": 4.890681756595413
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4d8328618de9721e46fc1551",
+                "name": "Kantine P.C. Hoofthuis",
+                "location": {
+                    "address": "UvA P.C. Hoofthuis",
+                    "lat": 52.37375756766027,
+                    "lng": 4.889972861597129,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37375756766027,
+                            "lng": 4.889972861597129
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "UvA P.C. Hoofthuis",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1a1941735",
+                        "name": "College Cafeteria",
+                        "pluralName": "College Cafeterias",
+                        "shortName": "Cafeteria",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4ec65f08722eeaa24caebd70",
+                "name": "Rockstar",
+                "location": {
+                    "lat": 52.37380643420274,
+                    "lng": 4.888414609638988,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37380643420274,
+                            "lng": 4.888414609638988
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52c71aaf3cf9994f4e043d17",
+                        "name": "Marijuana Dispensary",
+                        "pluralName": "Marijuana Dispensaries",
+                        "shortName": "Dispensary",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/dispensary_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4aa69846f964a5204f4a20e3",
+                "name": "Café de Barones",
+                "location": {
+                    "address": "Torensteeg 2",
+                    "crossStreet": "Spuistraat",
+                    "lat": 52.37440467584044,
+                    "lng": 4.890261074551048,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37440467584044,
+                            "lng": 4.890261074551048
+                        }
+                    ],
+                    "postalCode": "1012 TH",
+                    "cc": "NL",
+                    "neighborhood": "Stadsdeel Centrum",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Torensteeg 2 (Spuistraat)",
+                        "1012 TH Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "520cfd5b11d20f76c1b811d4",
+                "name": "Nooosugar",
+                "location": {
+                    "lat": 52.37469338885222,
+                    "lng": 4.889738038778362,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37469338885222,
+                            "lng": 4.889738038778362
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d127951735",
+                        "name": "Arts & Crafts Store",
+                        "pluralName": "Arts & Crafts Stores",
+                        "shortName": "Arts & Crafts",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/artstore_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5904dc4ae185f3577b665dd8",
+                "name": "Hulscher's",
+                "location": {
+                    "lat": 52.37401134213276,
+                    "lng": 4.890878486185736,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37401134213276,
+                            "lng": 4.890878486185736
+                        }
+                    ],
+                    "postalCode": "1012 SJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "1012 SJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1c4941735",
+                        "name": "Restaurant",
+                        "pluralName": "Restaurants",
+                        "shortName": "Restaurant",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5b97c4e4780eee0039e74b1d",
+                "name": "Amsterdam Nail Art Studio",
+                "location": {
+                    "address": "120 Spuistraat",
+                    "lat": 52.374563,
+                    "lng": 4.890239,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374563,
+                            "lng": 4.890239
+                        }
+                    ],
+                    "postalCode": "1012 VA",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "120 Spuistraat",
+                        "1012 VA Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4f04aa0c2fb6e1c99f3db0b8",
+                        "name": "Nail Salon",
+                        "pluralName": "Nail Salons",
+                        "shortName": "Nail Salon",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/nailsalon_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4d8329c98de9721ed6101651",
+                "name": "Bibliotheek P.C. Hoofthuis",
+                "location": {
+                    "address": "UvA P.C. Hoofthuis",
+                    "lat": 52.373650874211584,
+                    "lng": 4.889913005533873,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373650874211584,
+                            "lng": 4.889913005533873
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "UvA P.C. Hoofthuis",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1a7941735",
+                        "name": "College Library",
+                        "pluralName": "College Libraries",
+                        "shortName": "Library",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/library_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4ae08f7ef964a520588021e3",
+                "name": "PCH Fitness",
+                "location": {
+                    "address": "Spuistraat 134",
+                    "crossStreet": "PC Hoofthuis",
+                    "lat": 52.37368338495136,
+                    "lng": 4.889864979759505,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37368338495136,
+                            "lng": 4.889864979759505
+                        }
+                    ],
+                    "postalCode": "1012 VB",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 134 (PC Hoofthuis)",
+                        "1012 VB Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d175941735",
+                        "name": "Gym / Fitness Center",
+                        "pluralName": "Gyms or Fitness Centers",
+                        "shortName": "Gym / Fitness",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4c8391c647cc224b7f1f909f",
+                "name": "Standbeeld Multatuli",
+                "location": {
+                    "address": "Torensluis",
+                    "crossStreet": "Singel",
+                    "lat": 52.37468081259297,
+                    "lng": 4.8893499545704655,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37468081259297,
+                            "lng": 4.8893499545704655
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Torensluis (Singel)",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b79ed",
+                        "name": "Outdoor Sculpture",
+                        "pluralName": "Outdoor Sculptures",
+                        "shortName": "Outdoor Sculpture",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b640669f964a520c19b2ae3",
+                "name": "Torensluis (Brug 9)",
+                "location": {
+                    "address": "Torensluis",
+                    "crossStreet": "Singel 161",
+                    "lat": 52.37457120967764,
+                    "lng": 4.889438978701605,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37457120967764,
+                            "lng": 4.889438978701605
+                        }
+                    ],
+                    "postalCode": "1001 EJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Torensluis (Singel 161)",
+                        "1001 EJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1df941735",
+                        "name": "Bridge",
+                        "pluralName": "Bridges",
+                        "shortName": "Bridge",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/bridge_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4c08dc30009a0f47b1b2e6bf",
+                "name": "Printerette",
+                "location": {
+                    "address": "Spuistraat 128",
+                    "lat": 52.37426015124947,
+                    "lng": 4.890163027221058,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37426015124947,
+                            "lng": 4.890163027221058
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 128",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ff941735",
+                        "name": "Miscellaneous Shop",
+                        "pluralName": "Miscellaneous Shops",
+                        "shortName": "Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "55672f7d498e1f03ad251276",
+                "name": "Steiger aan de Singel",
+                "location": {
+                    "address": "Singel",
+                    "crossStreet": "Torensluis",
+                    "lat": 52.374424,
+                    "lng": 4.889598,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374424,
+                            "lng": 4.889598
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel (Torensluis)",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b7a28",
+                        "name": "Bathing Area",
+                        "pluralName": "Bathing Areas",
+                        "shortName": "Bathing Area",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4ee74971722e0882624e8937",
+                "name": "Wonderland",
+                "location": {
+                    "lat": 52.3738734,
+                    "lng": 4.8902816,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.3738734,
+                            "lng": 4.8902816
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1f1931735",
+                        "name": "General Entertainment",
+                        "pluralName": "General Entertainment",
+                        "shortName": "Entertainment",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "51e12bb47dd27efb24715887",
+                "name": "Nooo Sugar",
+                "location": {
+                    "address": "Oude Leliestraat 8",
+                    "lat": 52.37461997564835,
+                    "lng": 4.888738989830017,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37461997564835,
+                            "lng": 4.888738989830017
+                        }
+                    ],
+                    "postalCode": "1015 AW",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Oude Leliestraat 8",
+                        "1015 AW Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1f8941735",
+                        "name": "Furniture / Home Store",
+                        "pluralName": "Furniture / Home Stores",
+                        "shortName": "Furniture / Home",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/furniture_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b5067dff964a520672227e3",
+                "name": "America Today",
+                "location": {
+                    "address": "Spuistraat 137 0-10B",
+                    "crossStreet": "Magna Plaza",
+                    "lat": 52.37366368400138,
+                    "lng": 4.890406281452349,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37366368400138,
+                            "lng": 4.890406281452349
+                        }
+                    ],
+                    "postalCode": "1012 SV",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 137 0-10B (Magna Plaza)",
+                        "1012 SV Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d103951735",
+                        "name": "Clothing Store",
+                        "pluralName": "Clothing Stores",
+                        "shortName": "Apparel",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4e0f2606b0fb59de67dd3424",
+                "name": "Sissy Boy Café",
+                "location": {
+                    "lat": 52.37349635064836,
+                    "lng": 4.890151133696039,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37349635064836,
+                            "lng": 4.890151133696039
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "53da6ad2498e72221d30ccbb",
+                "name": "italian restaurant da massimo & ricardo",
+                "location": {
+                    "address": "Spuistraat 122",
+                    "lat": 52.374508,
+                    "lng": 4.890371,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374508,
+                            "lng": 4.890371
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 122",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d110941735",
+                        "name": "Italian Restaurant",
+                        "pluralName": "Italian Restaurants",
+                        "shortName": "Italian",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4f353bcae4b055b6da094fd1",
+                "name": "Bobbi Brown",
+                "location": {
+                    "address": "De Bijenkorf",
+                    "crossStreet": "De Dam",
+                    "lat": 52.37346054483597,
+                    "lng": 4.890606117209859,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37346054483597,
+                            "lng": 4.890606117209859
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "De Bijenkorf (De Dam)",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d10c951735",
+                        "name": "Cosmetics Shop",
+                        "pluralName": "Cosmetics Shops",
+                        "shortName": "Cosmetics",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4a27061ff964a5200d8a1fe3",
+                "name": "G Gallery",
+                "location": {
+                    "address": "Singel 188HS",
+                    "lat": 52.37437123854041,
+                    "lng": 4.890607716666555,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37437123854041,
+                            "lng": 4.890607716666555
+                        }
+                    ],
+                    "postalCode": "1016 AA",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel 188HS",
+                        "1016 AA Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e2931735",
+                        "name": "Art Gallery",
+                        "pluralName": "Art Galleries",
+                        "shortName": "Art Gallery",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4e5bbb2bd164da2b278009ce",
+                "name": "Van Dalen",
+                "location": {
+                    "lat": 52.37368078165189,
+                    "lng": 4.89040865812298,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37368078165189,
+                            "lng": 4.89040865812298
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d107951735",
+                        "name": "Shoe Store",
+                        "pluralName": "Shoe Stores",
+                        "shortName": "Shoes",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_shoestore_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b1d0eadf964a5207c0b24e3",
+                "name": "Reypenaer Proeflokaal",
+                "location": {
+                    "address": "Singel 182",
+                    "crossStreet": "Oude Leliestraat",
+                    "lat": 52.374557527428614,
+                    "lng": 4.8891584464556095,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374557527428614,
+                            "lng": 4.8891584464556095
+                        }
+                    ],
+                    "postalCode": "1015 AJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel 182 (Oude Leliestraat)",
+                        "1015 AJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d11e951735",
+                        "name": "Cheese Shop",
+                        "pluralName": "Cheese Shops",
+                        "shortName": "Cheese Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_cheese_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "536c8f5f498e29f67ea3fe0e",
+                "name": "Letterpress Amsterdam",
+                "location": {
+                    "address": "Singel 214hs",
+                    "lat": 52.374116426458535,
+                    "lng": 4.890206807482348,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374116426458535,
+                            "lng": 4.890206807482348
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel 214hs",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52f2ab2ebcbc57f1066b8b28",
+                        "name": "Print Shop",
+                        "pluralName": "Print Shops",
+                        "shortName": "Print Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "57de7a1e498eaf0632e91b1b",
+                "name": "Cocotte",
+                "location": {
+                    "address": "Spuistraat 127",
+                    "crossStreet": "Molsteeg",
+                    "lat": 52.37433023287383,
+                    "lng": 4.890292033254083,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37433023287383,
+                            "lng": 4.890292033254083
+                        }
+                    ],
+                    "postalCode": "1012 RJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 127 (Molsteeg)",
+                        "1012 RJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b79f2",
+                        "name": "Creperie",
+                        "pluralName": "Creperies",
+                        "shortName": "Creperie",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/creperie_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b5a23d0f964a520c4af28e3",
+                "name": "Eetsalon De Mol",
+                "location": {
+                    "address": "Molsteeg 3",
+                    "lat": 52.374168070315775,
+                    "lng": 4.8907571345042875,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374168070315775,
+                            "lng": 4.8907571345042875
+                        }
+                    ],
+                    "postalCode": "1012 SM",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Molsteeg 3",
+                        "1012 SM Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1c7941735",
+                        "name": "Snack Place",
+                        "pluralName": "Snack Places",
+                        "shortName": "Snacks",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/snacks_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5b4362ac67f62b002c0e4540",
+                "name": "Mindspace",
+                "location": {
+                    "address": "Spuistraat 111",
+                    "lat": 52.374409,
+                    "lng": 4.89099,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374409,
+                            "lng": 4.89099
+                        }
+                    ],
+                    "postalCode": "1012 SV",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 111",
+                        "1012 SV Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Office",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4e2db97acc3f93e196e5b60c",
+                "name": "Gallery Kavelaars",
+                "location": {
+                    "address": "Magna Plaza, Nieuwezijds Voorburgwal 182",
+                    "lat": 52.37331652389624,
+                    "lng": 4.890434145927429,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37331652389624,
+                            "lng": 4.890434145927429
+                        }
+                    ],
+                    "postalCode": "1012 SJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Magna Plaza, Nieuwezijds Voorburgwal 182",
+                        "1012 SJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e2931735",
+                        "name": "Art Gallery",
+                        "pluralName": "Art Galleries",
+                        "shortName": "Art Gallery",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "59858122a9e40278fd801093",
+                "name": "Crêperie Bretonne Cocotte",
+                "location": {
+                    "address": "Spuistraat 127",
+                    "lat": 52.374264,
+                    "lng": 4.890306,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374264,
+                            "lng": 4.890306
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 127",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "5744ccdfe4b0c0459246b4d0",
+                        "name": "Dutch Restaurant",
+                        "pluralName": "Dutch Restaurants",
+                        "shortName": "Dutch",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5517e345498e5a1b33d55148",
+                "name": "Maximiliaan",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal 176-180",
+                    "lat": 52.37406585489962,
+                    "lng": 4.890829388526869,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37406585489962,
+                            "lng": 4.890829388526869
+                        }
+                    ],
+                    "postalCode": "1012 SJ",
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal 176-180",
+                        "1012 SJ",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b79f1",
+                        "name": "Bistro",
+                        "pluralName": "Bistros",
+                        "shortName": "Bistro",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5649ce86498efa951968c1f2",
+                "name": "5Junior",
+                "location": {
+                    "address": "Spuistraat 122",
+                    "lat": 52.374445,
+                    "lng": 4.890187,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374445,
+                            "lng": 4.890187
+                        }
+                    ],
+                    "postalCode": "1012 VA",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 122",
+                        "1012 VA Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d110941735",
+                        "name": "Italian Restaurant",
+                        "pluralName": "Italian Restaurants",
+                        "shortName": "Italian",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4d7cfc70645ea35d27ae4ff8",
+                "name": "Mango Magna Plaza",
+                "location": {
+                    "crossStreet": "Magna Plaza",
+                    "lat": 52.37344302161116,
+                    "lng": 4.890435685196316,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37344302161116,
+                            "lng": 4.890435685196316
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Magna Plaza",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d108951735",
+                        "name": "Women's Store",
+                        "pluralName": "Women's Stores",
+                        "shortName": "Women's Store",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_women_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "51ceec34498e20f4de674dd2",
+                "name": "Sugar 'N Ice",
+                "location": {
+                    "address": "Spuistraat 124",
+                    "lat": 52.37437332837149,
+                    "lng": 4.8902244764910066,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37437332837149,
+                            "lng": 4.8902244764910066
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 124",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1d0941735",
+                        "name": "Dessert Shop",
+                        "pluralName": "Dessert Shops",
+                        "shortName": "Desserts",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "515fd67ce4b0e0942ddac754",
+                "name": "PC hoofthuis",
+                "location": {
+                    "lat": 52.37387433356329,
+                    "lng": 4.889679305280532,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37387433356329,
+                            "lng": 4.889679305280532
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d198941735",
+                        "name": "College Academic Building",
+                        "pluralName": "College Academic Buildings",
+                        "shortName": "Academic Building",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4ae0861cf964a520f17f21e3",
+                "name": "United Nude Store",
+                "location": {
+                    "address": "Molsteeg 10",
+                    "crossStreet": "Spuistraat",
+                    "lat": 52.37435013558871,
+                    "lng": 4.890421757998682,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37435013558871,
+                            "lng": 4.890421757998682
+                        }
+                    ],
+                    "postalCode": "1012SM",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Molsteeg 10 (Spuistraat)",
+                        "1012SM Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d107951735",
+                        "name": "Shoe Store",
+                        "pluralName": "Shoe Stores",
+                        "shortName": "Shoes",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_shoestore_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4c88a1aeed0aa143bdd6aaf3",
+                "name": "Barista",
+                "location": {
+                    "address": "Spuistraat 122",
+                    "lat": 52.374426981906424,
+                    "lng": 4.890233587180181,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374426981906424,
+                            "lng": 4.890233587180181
+                        }
+                    ],
+                    "postalCode": "1012 VA",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 122",
+                        "1012 VA Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4f849996e4b05fcb542ff30b",
+                "name": "Plaskrul",
+                "location": {
+                    "lat": 52.373251,
+                    "lng": 4.889075,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373251,
+                            "lng": 4.889075
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e4941735",
+                        "name": "Campground",
+                        "pluralName": "Campgrounds",
+                        "shortName": "Campground",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/campground_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "59466efaf62e090a3b658e0f",
+                "name": "Mrs. Highbrow",
+                "location": {
+                    "address": "Oude Leliestraat 10",
+                    "lat": 52.374658,
+                    "lng": 4.888708,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374658,
+                            "lng": 4.888708
+                        }
+                    ],
+                    "postalCode": "1015 AW",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Oude Leliestraat 10",
+                        "1015 AW Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4f04aa0c2fb6e1c99f3db0b8",
+                        "name": "Nail Salon",
+                        "pluralName": "Nail Salons",
+                        "shortName": "Nail Salon",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/nailsalon_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "53ec881d498ef2b2b17a0343",
+                "name": "OODE",
+                "location": {
+                    "address": "Singel 159A",
+                    "lat": 52.37461833817028,
+                    "lng": 4.889927208423614,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37461833817028,
+                            "lng": 4.889927208423614
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel 159A",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d127951735",
+                        "name": "Arts & Crafts Store",
+                        "pluralName": "Arts & Crafts Stores",
+                        "shortName": "Arts & Crafts",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/artstore_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4d55be82a05c37043a97bc87",
+                "name": "The King Pizza",
+                "location": {
+                    "address": "Nieuwezijds voorburgwal",
+                    "crossStreet": "Nieuwezijdskolk",
+                    "lat": 52.373923659324646,
+                    "lng": 4.890836477279663,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373923659324646,
+                            "lng": 4.890836477279663
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds voorburgwal (Nieuwezijdskolk)",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1ca941735",
+                        "name": "Pizza Place",
+                        "pluralName": "Pizza Places",
+                        "shortName": "Pizza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5242bd2d498edf14a3000f94",
+                "name": "Brasil Koffie",
+                "location": {
+                    "lat": 52.37417041873044,
+                    "lng": 4.891127612062695,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37417041873044,
+                            "lng": 4.891127612062695
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "58ecd91cfb9d893513a24752",
+                "name": "The Cool Collective",
+                "location": {
+                    "address": "Raadhuisstraat 182",
+                    "lat": 52.373524,
+                    "lng": 4.8903265,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373524,
+                            "lng": 4.8903265
+                        }
+                    ],
+                    "postalCode": "1016 DE",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Raadhuisstraat 182",
+                        "1016 DE Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d128951735",
+                        "name": "Gift Shop",
+                        "pluralName": "Gift Shops",
+                        "shortName": "Gift Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/giftshop_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5a2451ec91eaca309f5075c7",
+                "name": "Leidsplein",
+                "location": {
+                    "lat": 52.373482,
+                    "lng": 4.89068,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373482,
+                            "lng": 4.89068
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Kuzey Hollanda",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d164941735",
+                        "name": "Plaza",
+                        "pluralName": "Plazas",
+                        "shortName": "Plaza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5cd32de28b98fd002c1a3d30",
+                "name": "Cocktails",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal",
+                    "lat": 52.373689,
+                    "lng": 4.890351,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373689,
+                            "lng": 4.890351
+                        }
+                    ],
+                    "postalCode": "1012 SJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal",
+                        "1012 SJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d11e941735",
+                        "name": "Cocktail Bar",
+                        "pluralName": "Cocktail Bars",
+                        "shortName": "Cocktail",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "53156dac498eb66230d03870",
+                "name": "AYP Entertainment",
+                "location": {
+                    "address": "14 E Main St",
+                    "crossStreet": "2nd Floor",
+                    "lat": 52.37403,
+                    "lng": 4.889690000000002,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37403,
+                            "lng": 4.889690000000002
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "NY",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "14 E Main St (2nd Floor)",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e5931735",
+                        "name": "Music Venue",
+                        "pluralName": "Music Venues",
+                        "shortName": "Music Venue",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b71715af964a520db462de3",
+                "name": "Het Koffie Cultuur Centrum",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal 133",
+                    "crossStreet": "at Gravenstraat",
+                    "lat": 52.374201751727924,
+                    "lng": 4.8911350633087745,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374201751727924,
+                            "lng": 4.8911350633087745
+                        }
+                    ],
+                    "postalCode": "1012",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal 133 (at Gravenstraat)",
+                        "1012 Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1f9941735",
+                        "name": "Food & Drink Shop",
+                        "pluralName": "Food & Drink Shops",
+                        "shortName": "Food & Drink",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/foodanddrink_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "513624a5e4b082d274dc6d4b",
+                "name": "Mica Bella Cosmetics Club",
+                "location": {
+                    "address": "Magna Plaza",
+                    "crossStreet": "Nieuwezijds Voorburgwal",
+                    "lat": 52.37346431449007,
+                    "lng": 4.890333276352956,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37346431449007,
+                            "lng": 4.890333276352956
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Magna Plaza (Nieuwezijds Voorburgwal)",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d10c951735",
+                        "name": "Cosmetics Shop",
+                        "pluralName": "Cosmetics Shops",
+                        "shortName": "Cosmetics",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5ab74fbc7dc9e15079e84910",
+                "name": "Hulsghers Breakfast",
+                "location": {
+                    "lat": 52.374021,
+                    "lng": 4.891104,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374021,
+                            "lng": 4.891104
+                        }
+                    ],
+                    "postalCode": "1012 RJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "1012 RJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d143941735",
+                        "name": "Breakfast Spot",
+                        "pluralName": "Breakfast Spots",
+                        "shortName": "Breakfast",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "59c127bac5b11c6eb2dc0c54",
+                "name": "UvA P.C. Hoofthuis 0.05",
+                "location": {
+                    "address": "Spuistraat 134",
+                    "lat": 52.373671,
+                    "lng": 4.88971,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373671,
+                            "lng": 4.88971
+                        }
+                    ],
+                    "postalCode": "1012 VB",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 134",
+                        "1012 VB Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1a0941735",
+                        "name": "College Classroom",
+                        "pluralName": "College Classrooms",
+                        "shortName": "Classroom",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/classroom_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5931cf8dc5b11c6c162787f2",
+                "name": "Green Planet",
+                "location": {
+                    "lat": 52.374153,
+                    "lng": 4.8900714,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374153,
+                            "lng": 4.8900714
+                        }
+                    ],
+                    "postalCode": "1012 VB",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "1012 VB Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d123951735",
+                        "name": "Smoke Shop",
+                        "pluralName": "Smoke Shops",
+                        "shortName": "Smoke Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/tobacco_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "58ecd8c07220e6365e1e75fe",
+                "name": "Aroma Plaza",
+                "location": {
+                    "address": "Spuistraat 139A",
+                    "lat": 52.373398,
+                    "lng": 4.890111,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373398,
+                            "lng": 4.890111
+                        }
+                    ],
+                    "postalCode": "1012 SV",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 139A",
+                        "1012 SV Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d128951735",
+                        "name": "Gift Shop",
+                        "pluralName": "Gift Shops",
+                        "shortName": "Gift Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/giftshop_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4db05d648154905aadacd549",
+                "name": "Buffel",
+                "location": {
+                    "address": "Singel",
+                    "lat": 52.3742234091674,
+                    "lng": 4.889151735214574,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.3742234091674,
+                            "lng": 4.889151735214574
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12d951735",
+                        "name": "Boat or Ferry",
+                        "pluralName": "Boats or Ferries",
+                        "shortName": "Boat / Ferry",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/boat_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b1e440ff964a520351824e3",
+                "name": "Rush Hour",
+                "location": {
+                    "address": "Spuistraat 116",
+                    "lat": 52.375049143352385,
+                    "lng": 4.891051122741878,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.375049143352385,
+                            "lng": 4.891051122741878
+                        }
+                    ],
+                    "postalCode": "1012 VA",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 116",
+                        "1012 VA Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d10d951735",
+                        "name": "Record Shop",
+                        "pluralName": "Record Shops",
+                        "shortName": "Record Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/record_shop_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5750a777498e1559496183ff",
+                "name": "Amsterdam Bike Rent",
+                "location": {
+                    "address": "Spuistraat 110",
+                    "lat": 52.37475097369705,
+                    "lng": 4.890444874763489,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37475097369705,
+                            "lng": 4.890444874763489
+                        }
+                    ],
+                    "postalCode": "1012VA",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 110",
+                        "1012VA Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4e4c9077bd41f78e849722f9",
+                        "name": "Bike Rental / Bike Share",
+                        "pluralName": "Bike Rentals / Bike Shares",
+                        "shortName": "Bike",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/bikeshop_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4a2703b5f964a5202c851fe3",
+                "name": "Grand Cafe Ovidius",
+                "location": {
+                    "address": "Spuistraat 137-139",
+                    "lat": 52.373273611549564,
+                    "lng": 4.889818469335129,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373273611549564,
+                            "lng": 4.889818469335129
+                        }
+                    ],
+                    "postalCode": "1012 SV",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 137-139",
+                        "1012 SV Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "58012dbc38fa42d68aa4d32f",
+                "name": "Het Spinhuis",
+                "location": {
+                    "lat": 52.37464,
+                    "lng": 4.889702,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37464,
+                            "lng": 4.889702
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d11a941735",
+                        "name": "Other Nightlife",
+                        "pluralName": "Other Nightlife",
+                        "shortName": "Nightlife",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5a05715afdb9a76a78bb6a2f",
+                "name": "UvA P.C. Hoofthuis 4.34",
+                "location": {
+                    "address": "Spuistraat 134",
+                    "lat": 52.373749,
+                    "lng": 4.889524,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373749,
+                            "lng": 4.889524
+                        }
+                    ],
+                    "postalCode": "1012 VK",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 134",
+                        "1012 VK Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1a0941735",
+                        "name": "College Classroom",
+                        "pluralName": "College Classrooms",
+                        "shortName": "Classroom",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/classroom_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "591c26140531e81f1f97ad6b",
+                "name": "BUX Canteen",
+                "location": {
+                    "address": "112 Spuistraat",
+                    "lat": 52.374791,
+                    "lng": 4.890425,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.374791,
+                            "lng": 4.890425
+                        }
+                    ],
+                    "postalCode": "1012 VA",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "112 Spuistraat",
+                        "1012 VA Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "54f4ba06498e2cf5561da814",
+                        "name": "Corporate Cafeteria",
+                        "pluralName": "Corporate Cafeterias",
+                        "shortName": "Corporate Cafeteria",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4a27033df964a520d9841fe3",
+                "name": "Ovidius",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal 182HS",
+                    "lat": 52.3733237151019,
+                    "lng": 4.889815214562635,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.3733237151019,
+                            "lng": 4.889815214562635
+                        }
+                    ],
+                    "postalCode": "1012 SJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal 182HS",
+                        "1012 SJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d147941735",
+                        "name": "Diner",
+                        "pluralName": "Diners",
+                        "shortName": "Diner",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4c08fba9009a0f474de6e6bf",
+                "name": "SNS Securities",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal 162",
+                    "lat": 52.37434160350472,
+                    "lng": 4.891008138656616,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37434160350472,
+                            "lng": 4.891008138656616
+                        }
+                    ],
+                    "postalCode": "1012SJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal 162",
+                        "1012SJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Office",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "574ed1b2498e0e385fad85ab",
+                "name": "daily",
+                "location": {
+                    "lat": 52.373536,
+                    "lng": 4.890281,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373536,
+                            "lng": 4.890281
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "59a531fc6f0aa216949547b8",
+                "name": "Bag House Amsterdam",
+                "location": {
+                    "lat": 52.373505,
+                    "lng": 4.8900867,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373505,
+                            "lng": 4.8900867
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52f2ab2ebcbc57f1066b8b17",
+                        "name": "Costume Shop",
+                        "pluralName": "Costume Shops",
+                        "shortName": "Costume Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4ae5e2ccf964a520e2a221e3",
+                "name": "안암동",
+                "location": {
+                    "address": "암암동",
+                    "lat": 52.373974,
+                    "lng": 4.890612,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373974,
+                            "lng": 4.890612
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "암암동",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4b0d150df964a520ab4323e3",
+                "name": "Boumans Delicieux",
+                "location": {
+                    "address": "Spuistraat 127",
+                    "crossStreet": "Molsteeg",
+                    "lat": 52.37434,
+                    "lng": 4.890307,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37434,
+                            "lng": 4.890307
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 127 (Molsteeg)",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4c223ea7fbe5c9b6bc8f9921",
+                "name": "Wong",
+                "location": {
+                    "address": "singel 158",
+                    "lat": 52.373981,
+                    "lng": 4.890584,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373981,
+                            "lng": 4.890584
+                        }
+                    ],
+                    "postalCode": "1012",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "singel 158",
+                        "1012 Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4ea2bef6cc2102b34d1fb753",
+                "name": "Postzegelmarkt",
+                "location": {
+                    "address": "Nieuwezijds Voorburgwal 280",
+                    "lat": 52.373932505796745,
+                    "lng": 4.890604619359254,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373932505796745,
+                            "lng": 4.890604619359254
+                        }
+                    ],
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nieuwezijds Voorburgwal 280",
+                        "Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1f7941735",
+                        "name": "Flea Market",
+                        "pluralName": "Flea Markets",
+                        "shortName": "Flea Market",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/fleamarket_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "574bfa78498e7d609c47ab43",
+                "name": "BUX",
+                "location": {
+                    "address": "Spuistraat 112",
+                    "lat": 52.37478026745659,
+                    "lng": 4.890568005306714,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37478026745659,
+                            "lng": 4.890568005306714
+                        }
+                    ],
+                    "postalCode": "1012 VA",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 112",
+                        "1012 VA Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d125941735",
+                        "name": "Tech Startup",
+                        "pluralName": "Tech Startups",
+                        "shortName": "Tech Startup",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5130af56e4b0d576b5cc9d63",
+                "name": "Caffè Il Momento",
+                "location": {
+                    "address": "Singel 180",
+                    "lat": 52.37468219976994,
+                    "lng": 4.889017939567566,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37468219976994,
+                            "lng": 4.889017939567566
+                        }
+                    ],
+                    "postalCode": "1015 AJ",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel 180",
+                        "1015 AJ Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d16d941735",
+                        "name": "Café",
+                        "pluralName": "Cafés",
+                        "shortName": "Café",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4bf7fe9d5ec320a130dc87d3",
+                "name": "Puccini Bomboni",
+                "location": {
+                    "address": "Singel 184",
+                    "crossStreet": "Oude Leliestraat",
+                    "lat": 52.37459191628638,
+                    "lng": 4.889032031045729,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37459191628638,
+                            "lng": 4.889032031045729
+                        }
+                    ],
+                    "postalCode": "1016 AA",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel 184 (Oude Leliestraat)",
+                        "1016 AA Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52f2ab2ebcbc57f1066b8b31",
+                        "name": "Chocolate Shop",
+                        "pluralName": "Chocolate Shops",
+                        "shortName": "Chocolate Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/candystore_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4a2700bbf964a52036841fe3",
+                "name": "Franken & Kok",
+                "location": {
+                    "address": "Torensteeg 2",
+                    "lat": 52.37454,
+                    "lng": 4.889668,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37454,
+                            "lng": 4.889668
+                        }
+                    ],
+                    "postalCode": "1012 TH",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Torensteeg 2",
+                        "1012 TH Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d116941735",
+                        "name": "Bar",
+                        "pluralName": "Bars",
+                        "shortName": "Bar",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "5020c612e4b0643d851e74a2",
+                "name": "Instituut voor Nederlands als Tweede Taal",
+                "location": {
+                    "address": "Spuistraat 134",
+                    "lat": 52.37413711866993,
+                    "lng": 4.889777204567912,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37413711866993,
+                            "lng": 4.889777204567912
+                        }
+                    ],
+                    "postalCode": "1012 VB",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 134",
+                        "1012 VB Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d198941735",
+                        "name": "College Academic Building",
+                        "pluralName": "College Academic Buildings",
+                        "shortName": "Academic Building",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "53731b1c498e4bab00dc5fa7",
+                "name": "Mineralissima pure cosmetics",
+                "location": {
+                    "address": "Jadelaan 117",
+                    "lat": 52.37403,
+                    "lng": 4.889690000000002,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37403,
+                            "lng": 4.889690000000002
+                        }
+                    ],
+                    "postalCode": "2132XZ",
+                    "cc": "NL",
+                    "city": "Hoofddorp",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Jadelaan 117",
+                        "2132XZ Hoofddorp",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d10c951735",
+                        "name": "Cosmetics Shop",
+                        "pluralName": "Cosmetics Shops",
+                        "shortName": "Cosmetics",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "53032d0d498e47623a7f3ef2",
+                "name": "Clock Cards 4 Less",
+                "location": {
+                    "address": "Molenwerf 14",
+                    "lat": 52.37403,
+                    "lng": 4.889690000000002,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37403,
+                            "lng": 4.889690000000002
+                        }
+                    ],
+                    "postalCode": "1014 BG",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Molenwerf 14",
+                        "1014 BG Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d121951735",
+                        "name": "Paper / Office Supplies Store",
+                        "pluralName": "Paper / Office Supplies Stores",
+                        "shortName": "Office Supplies",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/papergoods_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "53997ed1498e718f898e90f3",
+                "name": "passie voor pellets",
+                "location": {
+                    "address": "Visserspad 10A",
+                    "lat": 52.37403,
+                    "lng": 4.889690000000002,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37403,
+                            "lng": 4.889690000000002
+                        }
+                    ],
+                    "postalCode": "1561 PK",
+                    "cc": "NL",
+                    "city": "Krommenie",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Visserspad 10A",
+                        "1561 PK Krommenie",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1f6941735",
+                        "name": "Department Store",
+                        "pluralName": "Department Stores",
+                        "shortName": "Department Store",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/departmentstore_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4a2707b6f964a520a08e1fe3",
+                "name": "d' Theeboom",
+                "location": {
+                    "address": "Singel 210",
+                    "lat": 52.37372496024383,
+                    "lng": 4.889113249827421,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37372496024383,
+                            "lng": 4.889113249827421
+                        }
+                    ],
+                    "postalCode": "1016 AB",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Singel 210",
+                        "1016 AB Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d10c941735",
+                        "name": "French Restaurant",
+                        "pluralName": "French Restaurants",
+                        "shortName": "French",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "54ef6f5b498ec9c89e98416b",
+                "name": "Menatwork",
+                "location": {
+                    "address": "Magna Plaza",
+                    "lat": 52.37370216190188,
+                    "lng": 4.890301864205441,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37370216190188,
+                            "lng": 4.890301864205441
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Magna Plaza",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d103951735",
+                        "name": "Clothing Store",
+                        "pluralName": "Clothing Stores",
+                        "shortName": "Apparel",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4d090dcd00e6b1f7bfce10d7",
+                "name": "Wijnhuis Belgerette",
+                "location": {
+                    "lat": 52.37417,
+                    "lng": 4.891129,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.37417,
+                            "lng": 4.891129
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d14b941735",
+                        "name": "Winery",
+                        "pluralName": "Wineries",
+                        "shortName": "Winery",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "59b10af7e97dfb308c0faf34",
+                "name": "UvA P.C. Hoofthuis 5.55",
+                "location": {
+                    "address": "Spuistraat 134",
+                    "lat": 52.373699,
+                    "lng": 4.889594,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373699,
+                            "lng": 4.889594
+                        }
+                    ],
+                    "postalCode": "1012 VK",
+                    "cc": "NL",
+                    "city": "Amsterdam",
+                    "state": "Noord-Holland",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Spuistraat 134",
+                        "1012 VK Amsterdam",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1a0941735",
+                        "name": "College Classroom",
+                        "pluralName": "College Classrooms",
+                        "shortName": "Classroom",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/classroom_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            },
+            {
+                "id": "4f7f0db3e4b0f67485733332",
+                "name": "Bravoure",
+                "location": {
+                    "address": "Magna Plaza",
+                    "lat": 52.373594902501004,
+                    "lng": 4.890342950820923,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 52.373594902501004,
+                            "lng": 4.890342950820923
+                        }
+                    ],
+                    "cc": "NL",
+                    "country": "Nederland",
+                    "formattedAddress": [
+                        "Magna Plaza",
+                        "Nederland"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d108951735",
+                        "name": "Women's Store",
+                        "pluralName": "Women's Stores",
+                        "shortName": "Women's Store",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_women_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1558293727",
+                "hasPerk": false
+            }
+        ],
+        "geocode": {
+            "what": "",
+            "where": "amsterdam netherlands",
+            "feature": {
+                "cc": "NL",
+                "name": "Amsterdam",
+                "displayName": "Amsterdam, Netherlands",
+                "matchedName": "Amsterdam, Netherlands",
+                "highlightedName": "<b>Amsterdam</b>, <b>Netherlands</b>",
+                "woeType": 7,
+                "slug": "amsterdam-netherlands",
+                "id": "geonameid:2759794",
+                "longId": "72057594040687730",
+                "geometry": {
+                    "center": {
+                        "lat": 52.37403,
+                        "lng": 4.88969
+                    },
+                    "bounds": {
+                        "ne": {
+                            "lat": 52.52059199271734,
+                            "lng": 5.068538969271151
+                        },
+                        "sw": {
+                            "lat": 52.278108009531344,
+                            "lng": 4.672476002255692
+                        }
+                    }
+                }
+            },
+            "parents": []
+        }
+    }
+}
