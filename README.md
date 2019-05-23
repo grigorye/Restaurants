@@ -44,3 +44,4 @@ There's also a level of integration in the main project itself. It's unnecessari
 7. Did nothing to polish the app and etc - was focused on other aspects.
 8. Considered CI but had no time.
 9. Did not test it on a real device. Did not profile the app to any extent. Sorry.
+10. Did not use Alamofire or e.g. Moya, as an experiment. Implemented HTTPService as an abstraction. Have doubts about that.
