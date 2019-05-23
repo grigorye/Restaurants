@@ -8,7 +8,7 @@ The app is supposed to show on the map restaurants around you, utlizing Foursqua
 
 # Modules
 
-There're a quite a few modules here. That's intentional. I tried to exploit modules, particularly, cocoapods, to avoid mixing unrelated things together. Cocoapods are cheap and quite solid instruments for module-level development nowadays.
+There're a quite a few modules here. That's intentional. I tried to exploit modules, particularly, CocoaPods, to avoid mixing unrelated things together. CocoaPods are cheap and quite solid instruments for module-level development nowadays. This is my first attempt to utilize the development pods to this extent, but so far I like it.
 
 So far there're four kinds of modules:
 
