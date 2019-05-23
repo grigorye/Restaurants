@@ -4,6 +4,8 @@
 
 Another attempt to build something modularized/utilizing best practicies like dependency management/unit testing/modularization/around VIPER-like architecture.
 
+The app is supposed to show on the map restaurants around you, utlizing Foursquare API.
+
 # Modules
 
 There're a quite a few modules here. That's intentional. I tried to exploit modules, particularly, cocoapods, to avoid mixing unrelated things together. Cocoapods are cheap and quite solid instruments for module-level development nowadays.
